@@ -5,6 +5,7 @@ import net.fatsassin.depthcraft.block.ModBlocks;
 import net.fatsassin.depthcraft.item.ModItems;
 import net.minecraft.data.PackOutput;
 import net.minecraft.data.recipes.*;
+import net.minecraft.world.item.Items;
 import net.minecraft.world.item.crafting.AbstractCookingRecipe;
 import net.minecraft.world.item.crafting.Ingredient;
 import net.minecraft.world.item.crafting.RecipeSerializer;
@@ -39,6 +40,15 @@ public class ModRecipeProvider extends RecipeProvider implements IConditionBuild
         ShapelessRecipeBuilder.shapeless(RecipeCategory.MISC, ModItems.PETROCK.get(), 9)
                 .requires(ModBlocks.ROCK_BLOCK.get())
                 .unlockedBy(getHasName(ModBlocks.ROCK_BLOCK.get()), has(ModBlocks.ROCK_BLOCK.get()))
+                .save(pWriter);
+
+        ShapedRecipeBuilder.shaped(RecipeCategory.MISC, ModItems.BLADE.get())
+                .pattern(" P ")
+                .pattern(" P ")
+                .pattern(" S ")
+                .define('P', ModItems.PEARL.get())
+                .define('S', Items.STICK)
+                .unlockedBy(getHasName(ModItems.PEARL.get()), has(ModItems.PEARL.get()))
                 .save(pWriter);
 
 

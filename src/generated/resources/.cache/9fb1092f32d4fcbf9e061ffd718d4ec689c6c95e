@@ -1,10 +1,12 @@
-// 1.20.1	2024-01-17T11:56:24.3634184	Recipes
+// 1.20.1	2024-01-19T12:03:22.6157014	Recipes
+c916a616fd591b493ce3e98c32a3e9277ab3d3bc data/depthcraft/advancements/recipes/misc/blade.json
 2c1a246e6483aba52d564547a0a3e30906921e75 data/depthcraft/advancements/recipes/misc/pearl_from_blasting_death_block.json
 df006250a29594dac1d8cbc5b41659dc4f4ff82c data/depthcraft/advancements/recipes/misc/pearl_from_blasting_pearl.json
 466034624ea2895aada0e92228188bb617f50e2e data/depthcraft/advancements/recipes/misc/pearl_from_smelting_death_block.json
 deeb5f68d9e4ce15f000ec32e0e7701b2c165c8a data/depthcraft/advancements/recipes/misc/pearl_from_smelting_pearl.json
 951ece8b08c186a2fab014a7d59d2d9f9a6b10d9 data/depthcraft/advancements/recipes/misc/petrock.json
 cab874ff126e8d7483fbd18e01db1bde1b799099 data/depthcraft/advancements/recipes/misc/rock_block.json
+720e3633dcee6ca71dd4fdcc54bfc8fea682c18a data/depthcraft/recipes/blade.json
 25e0dae432a4db884e84224c4118995a8a2d7c02 data/depthcraft/recipes/pearl_from_blasting_death_block.json
 9ee7611c60d8f7aa7fb3877dbbc783610eb115fb data/depthcraft/recipes/pearl_from_blasting_pearl.json
 b96d1186bf5e21b7e621ed04b23916adff26a818 data/depthcraft/recipes/pearl_from_smelting_death_block.json
