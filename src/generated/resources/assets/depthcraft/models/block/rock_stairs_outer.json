@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "depthcraft:block/rock_block",
+    "side": "depthcraft:block/rock_block",
+    "top": "depthcraft:block/rock_block"
+  }
+}

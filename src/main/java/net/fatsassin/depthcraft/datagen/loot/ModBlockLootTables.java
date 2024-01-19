@@ -32,6 +32,19 @@ public class ModBlockLootTables extends BlockLootSubProvider {
         this.add(ModBlocks.ROCK_BLOCK.get(),
                 block -> createCopperLikeOreDrops(ModBlocks.ROCK_BLOCK.get(), ModItems.PETROCK.get()));
 
+
+        this.dropSelf(ModBlocks.ROCK_STAIRS.get());
+        this.dropSelf(ModBlocks.ROCK_TRAPDOOR.get());
+        this.dropSelf(ModBlocks.ROCK_PRESSURE_PLATE.get());
+        this.dropSelf(ModBlocks.ROCK_BUTTON.get());
+        this.dropSelf(ModBlocks.ROCK_FENCE.get());
+        this.dropSelf(ModBlocks.ROCK_FENCE_GATE.get());
+        this.dropSelf(ModBlocks.ROCK_WALL.get());
+
+        this.add(ModBlocks.ROCK_SLAB.get(),
+                block -> createSlabItemTable(ModBlocks.ROCK_SLAB.get()));
+        this.add(ModBlocks.ROCK_DOOR.get(),
+                block -> createDoorTable(ModBlocks.ROCK_DOOR.get()));
     }
     protected LootTable.Builder createCopperLikeOreDrops(Block pBlock, Item item) {
         return createSilkTouchDispatchTable(pBlock,

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "depthcraft:block/rock_slab"
+    },
+    "type=double": {
+      "model": "depthcraft:block/rock_block"
+    },
+    "type=top": {
+      "model": "depthcraft:block/rock_slab_top"
+    }
+  }
+}

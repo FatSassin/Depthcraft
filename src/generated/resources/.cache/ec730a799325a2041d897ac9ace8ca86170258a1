@@ -1,9 +1,18 @@
-// 1.20.1	2024-01-16T17:47:05.0209863	Item Models: depthcraft
+// 1.20.1	2024-01-19T14:19:12.7236113	Item Models: depthcraft
 70f468e9ff7c39582393d4894eec58413837e98a assets/depthcraft/models/item/blade.json
 9b62df000e51c6527c87a1607b3f9f7d6af0856d assets/depthcraft/models/item/metal_detector.json
 8620f933f166f23b08b9ad8b1a14437179632a76 assets/depthcraft/models/item/morsel.json
 40f2b6bb4ed2ed6f490fae4214905d3b04c2b618 assets/depthcraft/models/item/pearl.json
 b672dd9762029d2ef9dfa77ca4e40e2ac7846bac assets/depthcraft/models/item/petrock.json
 e5d4e0d297fcbf8aae8fbb3db75456681209bf43 assets/depthcraft/models/item/red_pearl.json
+fb4fe1ed7507fdb149e2d4b4fbb565f3c736bdc0 assets/depthcraft/models/item/rock_button.json
+a6f09564bf90d544106c1428bb4a26959ad8f3bb assets/depthcraft/models/item/rock_door.json
+05b415dbe48c0d58e109fc12994a158aadf69af5 assets/depthcraft/models/item/rock_fence.json
+ca21fa6267ee98ab47fc07e8194522d7137ef1c7 assets/depthcraft/models/item/rock_fence_gate.json
+b7a2a1d8f604ea5fe1b95ca00238b6c8e060ac5b assets/depthcraft/models/item/rock_pressure_plate.json
+466d07bdfd89dceea98bb092018a155477e594d8 assets/depthcraft/models/item/rock_slab.json
+f3d330368a7d7a5fddc819379515e1224567cd32 assets/depthcraft/models/item/rock_stairs.json
+8a33f0666012f2d26107bb9d7d9fe5cbef6beb6b assets/depthcraft/models/item/rock_trapdoor.json
+5e5ec3c63aabebae14d471b79da9df021a74e80e assets/depthcraft/models/item/rock_wall.json
 045a584af3a1b8f4f805dca3cb26f86b50f488da assets/depthcraft/models/item/sea_tar_ball.json
 b32d2ed0accdffb395f61fcdfc5fb088728b084d assets/depthcraft/models/item/two_trucks_music_disc.json

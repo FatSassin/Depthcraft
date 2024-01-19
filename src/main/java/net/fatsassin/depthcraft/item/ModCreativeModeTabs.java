@@ -22,16 +22,32 @@ public class ModCreativeModeTabs {
                     .displayItems((pParameters, pOutput) -> {
                         pOutput.accept(ModItems.PEARL.get());
                         pOutput.accept(ModItems.RED_PEARL.get());
-                        pOutput.accept(Items.SPAWNER);
+
                         pOutput.accept(ModItems.PETROCK.get());
                         pOutput.accept(ModItems.BLADE.get());
+
                         pOutput.accept(ModBlocks.ROCK_BLOCK.get());
                         pOutput.accept(ModBlocks.DEATH_BLOCK.get());
+
                         pOutput.accept(ModItems.TWO_TRUCKS_MUSIC_DISC.get());
                         pOutput.accept(ModItems.METAL_DETECTOR.get());
+
                         pOutput.accept(ModBlocks.SOUND_BLOCK.get());
+
                         pOutput.accept(ModItems.MORSEL.get());
                         pOutput.accept(ModItems.SEA_TAR_BALL.get());
+
+                        pOutput.accept(ModBlocks.ROCK_STAIRS.get());
+                        pOutput.accept(ModBlocks.ROCK_SLAB.get());
+                        pOutput.accept(ModBlocks.ROCK_BUTTON.get());
+                        pOutput.accept(ModBlocks.ROCK_PRESSURE_PLATE.get());
+
+                        pOutput.accept(ModBlocks.ROCK_FENCE.get());
+                        pOutput.accept(ModBlocks.ROCK_FENCE_GATE.get());
+                        pOutput.accept(ModBlocks.ROCK_WALL.get());
+
+                        pOutput.accept(ModBlocks.ROCK_TRAPDOOR.get());
+                        pOutput.accept(ModBlocks.ROCK_DOOR.get());
                     })
                     .build());
 

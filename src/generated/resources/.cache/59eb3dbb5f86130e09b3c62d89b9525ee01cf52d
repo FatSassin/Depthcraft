@@ -1,4 +1,13 @@
-// 1.20.1	2024-01-16T17:47:05.0243852	Loot Tables
+// 1.20.1	2024-01-19T13:27:15.9993771	Loot Tables
 9d78872d7785d9133f83241d4d08cb99988f1c70 data/depthcraft/loot_tables/blocks/death_block.json
 ed72fb9fb8bf1576d346023c535db1543e43af52 data/depthcraft/loot_tables/blocks/rock_block.json
+c09664c73f68abfffd5ce28372f9dcde234f863e data/depthcraft/loot_tables/blocks/rock_button.json
+2694d67b556ca6df544d54b9a6e49d13370f5218 data/depthcraft/loot_tables/blocks/rock_door.json
+fc3b7d42efa069fea552215e647e4c2c6dc121cc data/depthcraft/loot_tables/blocks/rock_fence.json
+c75cf56b69dba6513d1ad79ad0bd79c85b84a579 data/depthcraft/loot_tables/blocks/rock_fence_gate.json
+92ca4678c4d5fd0d0c106c24ac0ab251e8eb250e data/depthcraft/loot_tables/blocks/rock_pressure_plate.json
+5b96cda575f9ea1eb03621fbb9c2b535de1c2395 data/depthcraft/loot_tables/blocks/rock_slab.json
+a443ddde9d5e2eb9b7cb837a927ee95883213e52 data/depthcraft/loot_tables/blocks/rock_stairs.json
+15d4b639c4c600992c35ec4dac384ba25bc3daec data/depthcraft/loot_tables/blocks/rock_trapdoor.json
+9cbf92df5fa30a7e0b1c06740d5e0c143f0b41b7 data/depthcraft/loot_tables/blocks/rock_wall.json
 746001a8ad7c375ec5803b5d5f2e0ae3bc800639 data/depthcraft/loot_tables/blocks/sound_block.json

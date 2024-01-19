@@ -1,16 +1,34 @@
 {
   "item.depthcraft.pearl": "Pearl",
   "item.depthcraft.red_pearl": "Red Pearl",
+
   "creativetab_depth_tab": "Depthcraft",
+
   "item.depthcraft.petrock": "Pet Rock",
   "item.depthcraft.blade": "Blade",
+
   "block.depthcraft.rock_block": "Rock Block",
   "block.depthcraft.death_block": "Block of Death",
+
   "item.depthcraft.two_trucks_music_disc": "Two Trucks Music Disc",
   "item.depthcraft.two_trucks_music_disc.desc": "Lemon Demon - Two Trucks",
   "item.depthcraft.metal_detector": "The Detector That Detects Metals",
+
   "block.depthcraft.sound_block": "Unisususlal Block of Sound that Emits noises",
+
   "item.depthcraft.morsel": "A small Morsel",
   "item.depthcraft.sea_tar_ball": "A Ball of Sea Tar",
-  "tooltip.depthcraft.metal_detector.tooltip": "Finds Iron and Diamonds below blocks"
+
+  "tooltip.depthcraft.metal_detector.tooltip": "Finds Iron and Diamonds below blocks",
+
+  "block.depthcraft.rock_stairs": "Rock Stairs",
+  "block.depthcraft.rock_slab": "Rock Slab",
+  "block.depthcraft.rock_button": "Rock Button",
+  "block.depthcraft.rock_pressure_plate": "Rock Plate of Pressure",
+  "block.depthcraft.rock_fence": "Rock Fence",
+  "block.depthcraft.rock_fence_gate": "Rock Fence Gate",
+  "block.depthcraft.rock_door": "Rock Door",
+  "block.depthcraft.rock_trapdoor": "Rock Trapdoor",
+  "block.depthcraft.rock_wall": "Rock The Wall"
+
 }
