@@ -22,6 +22,7 @@ public class ModCreativeModeTabs {
                     .displayItems((pParameters, pOutput) -> {
                         pOutput.accept(ModItems.PEARL.get());
                         pOutput.accept(ModItems.RED_PEARL.get());
+                        pOutput.accept(ModItems.ROCK_WAND.get());
 
                         pOutput.accept(ModItems.PETROCK.get());
                         pOutput.accept(ModItems.BLADE.get());

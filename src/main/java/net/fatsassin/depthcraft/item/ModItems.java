@@ -33,6 +33,11 @@ public class ModItems {
             () -> new Item(new Item.Properties().food(ModFoods.MORSEL)));
     public static final RegistryObject<Item> SEA_TAR_BALL = ITEMS.register("sea_tar_ball",
             () -> new FuelItem(new Item.Properties(), 3200));
+    public static final RegistryObject<Item> ROCK_WAND = ITEMS.register("rock_wand",
+            () -> new Item(new Item.Properties().stacksTo(1)));
+
+
+
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
     }
