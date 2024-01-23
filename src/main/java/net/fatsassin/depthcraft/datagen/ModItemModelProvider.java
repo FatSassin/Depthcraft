@@ -20,7 +20,6 @@ public class ModItemModelProvider extends ItemModelProvider {
 
     @Override
     protected void registerModels() {
-        simpleItem(ModItems.BLADE);
         simpleItem(ModItems.METAL_DETECTOR);
         simpleItem(ModItems.MORSEL);
         simpleItem(ModItems.PEARL);
@@ -28,6 +27,7 @@ public class ModItemModelProvider extends ItemModelProvider {
         simpleItem(ModItems.RED_PEARL);
         simpleItem(ModItems.SEA_TAR_BALL);
         simpleItem(ModItems.TWO_TRUCKS_MUSIC_DISC);
+        simpleItem(ModItems.SEX);
 
         simpleBlockItem(ModBlocks.ROCK_DOOR);
 
@@ -41,6 +41,12 @@ public class ModItemModelProvider extends ItemModelProvider {
         evenSimplerBlockItem(ModBlocks.ROCK_FENCE_GATE);
 
         trapdoorItem(ModBlocks.ROCK_TRAPDOOR);
+
+        handheldItem(ModItems.PEARL_SWORD);
+        handheldItem(ModItems.PEARL_PICKAXE);
+        handheldItem(ModItems.PEARL_AXE);
+        handheldItem(ModItems.PEARL_SHOVEL);
+        handheldItem(ModItems.PEARL_HOE);
     }
 
     private ItemModelBuilder simpleItem(RegistryObject<Item> item) {
@@ -73,6 +79,12 @@ public class ModItemModelProvider extends ItemModelProvider {
         this.withExistingParent(ForgeRegistries.BLOCKS.getKey(block.get()).getPath(), mcLoc("block/wall_inventory"))
                 .texture("wall", new ResourceLocation(Depthcraft.MODID,
                         "block/" + ForgeRegistries.BLOCKS.getKey(baseBlock.get()).getPath()));
+    }
+
+    private ItemModelBuilder handheldItem(RegistryObject<Item> item) {
+        return withExistingParent(item.getId().getPath(),
+                new ResourceLocation("item/handheld")).texture("layer0",
+                new ResourceLocation(Depthcraft.MODID, "item/" + item.getId().getPath()));
     }
 
     private ItemModelBuilder simpleBlockItem(RegistryObject<Block> item) {

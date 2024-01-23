@@ -25,7 +25,13 @@ public class ModCreativeModeTabs {
                         pOutput.accept(ModItems.ROCK_WAND.get());
 
                         pOutput.accept(ModItems.PETROCK.get());
-                        pOutput.accept(ModItems.BLADE.get());
+                        pOutput.accept(ModItems.SEX.get());
+
+                        pOutput.accept(ModItems.PEARL_SWORD.get());
+                        pOutput.accept(ModItems.PEARL_PICKAXE.get());
+                        pOutput.accept(ModItems.PEARL_AXE.get());
+                        pOutput.accept(ModItems.PEARL_SHOVEL.get());
+                        pOutput.accept(ModItems.PEARL_HOE.get());
 
                         pOutput.accept(ModBlocks.ROCK_BLOCK.get());
                         pOutput.accept(ModBlocks.DEATH_BLOCK.get());

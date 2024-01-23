@@ -18,7 +18,7 @@ import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import org.slf4j.Logger;
 
 // The quick brown fox jumps over the lazy dog
-// The Creator of Lethal Company is a furry, uwu
+// The Creator of Lethal Company is a furry
 // British people be like "Let's fight" and then start making out
 @Mod(Depthcraft.MODID)
 public class Depthcraft {

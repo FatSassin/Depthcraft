@@ -8,6 +8,13 @@
   "item.depthcraft.blade": "Blade",
   "item.depthcraft.rock_wand": "A Rock *Wand*",
 
+  "item.depthcraft.pearl_sword": "Pearl Sword",
+  "item.depthcraft.pearl_pickaxe": "Pearl Pickaxe",
+  "item.depthcraft.pearl_axe": "Pearl Axe",
+  "item.depthcraft.pearl_shovel": "Pearl Shovel",
+  "item.depthcraft.pearl_hoe": "Pearl Hoe",
+
+
   "block.depthcraft.rock_block": "Rock Block",
   "block.depthcraft.death_block": "Block of Death",
 
@@ -19,8 +26,10 @@
 
   "item.depthcraft.morsel": "A small Morsel",
   "item.depthcraft.sea_tar_ball": "A Ball of Sea Tar",
+  "item.depthcraft.sex": "*[{[SEX]}]*",
 
   "tooltip.depthcraft.metal_detector.tooltip": "Finds Iron and Diamonds below blocks",
+  "tooltip.depthcraft.sex.tooltip": "Congratulations Consumer, For A Low Price Of 99 [KROMER] You're Now A Proud Owner Of SEX. Please Contact The Nearest SEX Dealership If Your SEX Is In Damaged Condition",
 
   "block.depthcraft.rock_stairs": "Rock Stairs",
   "block.depthcraft.rock_slab": "Rock Slab",

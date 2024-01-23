@@ -1,8 +1,12 @@
-// 1.20.1	2024-01-19T14:19:12.7236113	Item Models: depthcraft
-70f468e9ff7c39582393d4894eec58413837e98a assets/depthcraft/models/item/blade.json
+// 1.20.1	2024-01-23T21:11:53.774735	Item Models: depthcraft
 9b62df000e51c6527c87a1607b3f9f7d6af0856d assets/depthcraft/models/item/metal_detector.json
 8620f933f166f23b08b9ad8b1a14437179632a76 assets/depthcraft/models/item/morsel.json
 40f2b6bb4ed2ed6f490fae4214905d3b04c2b618 assets/depthcraft/models/item/pearl.json
+bd3adf29f889e37a94a56ecb6f1acf1d7752b492 assets/depthcraft/models/item/pearl_axe.json
+9bebf8587a57a7f56431d5599750a5222b2295c2 assets/depthcraft/models/item/pearl_hoe.json
+9f23c701d099b26a0d8b6a8309e86e9b16e95f07 assets/depthcraft/models/item/pearl_pickaxe.json
+25c5000e96caa548bbd6814a4ace70a31f4891ee assets/depthcraft/models/item/pearl_shovel.json
+172e81e888ac1f8666ca1c38b5e7579dcfc65680 assets/depthcraft/models/item/pearl_sword.json
 b672dd9762029d2ef9dfa77ca4e40e2ac7846bac assets/depthcraft/models/item/petrock.json
 e5d4e0d297fcbf8aae8fbb3db75456681209bf43 assets/depthcraft/models/item/red_pearl.json
 fb4fe1ed7507fdb149e2d4b4fbb565f3c736bdc0 assets/depthcraft/models/item/rock_button.json
@@ -15,4 +19,5 @@ f3d330368a7d7a5fddc819379515e1224567cd32 assets/depthcraft/models/item/rock_stai
 8a33f0666012f2d26107bb9d7d9fe5cbef6beb6b assets/depthcraft/models/item/rock_trapdoor.json
 5e5ec3c63aabebae14d471b79da9df021a74e80e assets/depthcraft/models/item/rock_wall.json
 045a584af3a1b8f4f805dca3cb26f86b50f488da assets/depthcraft/models/item/sea_tar_ball.json
+a77e09baebb04617a5fa4b21240407c540415906 assets/depthcraft/models/item/sex.json
 b32d2ed0accdffb395f61fcdfc5fb088728b084d assets/depthcraft/models/item/two_trucks_music_disc.json

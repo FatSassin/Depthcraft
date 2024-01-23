@@ -1,9 +1,9 @@
-// 1.20.1	2024-01-19T13:27:16.0015088	Tags for minecraft:block mod id depthcraft
+// 1.20.1	2024-01-23T20:36:11.3624159	Tags for minecraft:block mod id depthcraft
 d4f3bb786e171f0791ad7991cbbc6cd6d90d0775 data/depthcraft/tags/blocks/metal_detector_valuables.json
+a70dcc0fcac4c497e83606a82036835f40f5129b data/depthcraft/tags/blocks/needs_pearl_tool.json
 6b0665d25af3173b1438e2718c348412fac6497b data/minecraft/tags/blocks/fences.json
 1bd5bc228dbb794f0215c9901b7da4c9b53833db data/minecraft/tags/blocks/fence_gates.json
 567d1a757464979d51dc62cf307b8a51ac774fef data/minecraft/tags/blocks/mineable/pickaxe.json
 d37fd2cb454088349633e76ec23c9cd86c5a977c data/minecraft/tags/blocks/needs_diamond_tool.json
 290de5d95fe7556e476a16750058769effa05b6b data/minecraft/tags/blocks/needs_iron_tool.json
-a70dcc0fcac4c497e83606a82036835f40f5129b data/minecraft/tags/blocks/needs_stone_tool.json
 b39e87e89b8716bea52c083e065e31a1b2a1316a data/minecraft/tags/blocks/walls.json

@@ -42,7 +42,7 @@ public class ModRecipeProvider extends RecipeProvider implements IConditionBuild
                 .unlockedBy(getHasName(ModBlocks.ROCK_BLOCK.get()), has(ModBlocks.ROCK_BLOCK.get()))
                 .save(pWriter);
 
-        ShapedRecipeBuilder.shaped(RecipeCategory.MISC, ModItems.BLADE.get())
+        ShapedRecipeBuilder.shaped(RecipeCategory.MISC, ModItems.PEARL_SWORD.get())
                 .pattern(" P ")
                 .pattern(" P ")
                 .pattern(" S ")
