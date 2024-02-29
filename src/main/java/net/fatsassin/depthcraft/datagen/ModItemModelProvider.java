@@ -28,6 +28,7 @@ public class ModItemModelProvider extends ItemModelProvider {
         simpleItem(ModItems.SEA_TAR_BALL);
         simpleItem(ModItems.TWO_TRUCKS_MUSIC_DISC);
         simpleItem(ModItems.SEX);
+        simpleItem(ModItems.FUNNY);
 
         simpleBlockItem(ModBlocks.ROCK_DOOR);
 

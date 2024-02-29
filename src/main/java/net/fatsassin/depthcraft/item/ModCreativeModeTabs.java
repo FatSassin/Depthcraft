@@ -26,6 +26,7 @@ public class ModCreativeModeTabs {
 
                         pOutput.accept(ModItems.PETROCK.get());
                         pOutput.accept(ModItems.SEX.get());
+                        pOutput.accept(ModItems.FUNNY.get());
 
                         pOutput.accept(ModItems.PEARL_SWORD.get());
                         pOutput.accept(ModItems.PEARL_PICKAXE.get());

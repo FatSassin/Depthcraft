@@ -1,6 +1,7 @@
 {
   "item.depthcraft.pearl": "Pearl",
   "item.depthcraft.red_pearl": "Red Pearl",
+  "item.depthcraft.funny": "現在我有冰淇淋",
 
   "creativetab_depth_tab": "Depthcraft",
 
@@ -30,6 +31,7 @@
 
   "tooltip.depthcraft.metal_detector.tooltip": "Finds Iron and Diamonds below blocks",
   "tooltip.depthcraft.sex.tooltip": "Congratulations Consumer, For A Low Price Of 99 [KROMER] You're Now A Proud Owner Of SEX. Please Contact The Nearest SEX Dealership If Your SEX Is In Damaged Condition",
+  "tooltip.depthcraft.funny.tooltip": "我很喜歡冰淇淋\n但是\n《速度與激情》\n比冰淇淋\n《速度與激》\n《速度與激情》\n我最喜歡\n所以現在是\n音樂時間\n準備",
 
   "block.depthcraft.rock_stairs": "Rock Stairs",
   "block.depthcraft.rock_slab": "Rock Slab",

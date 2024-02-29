@@ -4,12 +4,15 @@ import net.fatsassin.depthcraft.Depthcraft;
 import net.fatsassin.depthcraft.item.custom.FuelItem;
 import net.fatsassin.depthcraft.item.custom.MetalDetectorItem;
 import net.fatsassin.depthcraft.item.custom.SexItem;
+import net.fatsassin.depthcraft.item.custom.FunnyItem;
 import net.fatsassin.depthcraft.sound.ModSounds;
+import net.minecraft.network.chat.Component;
 import net.minecraft.world.item.*;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
+import org.jetbrains.annotations.Nullable;
 
 public class ModItems {
     public static final DeferredRegister<Item> ITEMS =
@@ -21,6 +24,8 @@ public class ModItems {
             () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> PETROCK = ITEMS.register("petrock",
             () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> FUNNY = ITEMS.register("funny",
+            () -> new FunnyItem(new Item.Properties()));
 
 
     public static final RegistryObject<Item> TWO_TRUCKS_MUSIC_DISC = ITEMS.register("two_trucks_music_disc",
