@@ -59,6 +59,17 @@ public class ModItems {
 
 
 
+    public static final RegistryObject<Item> SCUBA_HELMET = ITEMS.register("scuba_helmet",
+            () -> new ArmorItem(ModArmorMaterials.PEARL, ArmorItem.Type.HELMET, new Item.Properties()));
+    public static final RegistryObject<Item> SCUBA_CHESTPLATE = ITEMS.register("scuba_chestplate",
+            () -> new ArmorItem(ModArmorMaterials.PEARL, ArmorItem.Type.CHESTPLATE, new Item.Properties()));
+    public static final RegistryObject<Item> SCUBA_LEGGINS = ITEMS.register("scuba_leggins",
+            () -> new ArmorItem(ModArmorMaterials.PEARL, ArmorItem.Type.LEGGINGS, new Item.Properties()));
+    public static final RegistryObject<Item> SCUBA_BOOTS = ITEMS.register("scuba_boots",
+            () -> new ArmorItem(ModArmorMaterials.PEARL, ArmorItem.Type.BOOTS, new Item.Properties()));
+
+
+
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);

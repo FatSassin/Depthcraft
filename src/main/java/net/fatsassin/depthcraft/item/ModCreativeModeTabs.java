@@ -34,6 +34,11 @@ public class ModCreativeModeTabs {
                         pOutput.accept(ModItems.PEARL_SHOVEL.get());
                         pOutput.accept(ModItems.PEARL_HOE.get());
 
+                        pOutput.accept(ModItems.SCUBA_HELMET.get());
+                        pOutput.accept(ModItems.SCUBA_CHESTPLATE.get());
+                        pOutput.accept(ModItems.SCUBA_LEGGINS.get());
+                        pOutput.accept(ModItems.SCUBA_BOOTS.get());
+
                         pOutput.accept(ModBlocks.ROCK_BLOCK.get());
                         pOutput.accept(ModBlocks.DEATH_BLOCK.get());
 

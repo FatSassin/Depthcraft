@@ -1,3 +1,4 @@
-// 1.20.1	2024-01-16T17:47:05.0268374	Tags for minecraft:item mod id depthcraft
+// 1.20.1	2024-03-01T15:57:52.4015328	Tags for minecraft:item mod id depthcraft
 ca3fc8f3daf689d0359a34b98191ab9288faac7f data/minecraft/tags/items/creeper_drop_music_discs.json
 ca3fc8f3daf689d0359a34b98191ab9288faac7f data/minecraft/tags/items/music_discs.json
+d6095c153546e51683a774a5c99dd6590785c75d data/minecraft/tags/items/trimmable_armor.json

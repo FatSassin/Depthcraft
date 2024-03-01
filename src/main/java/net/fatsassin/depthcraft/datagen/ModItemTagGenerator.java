@@ -24,6 +24,11 @@ public class ModItemTagGenerator extends ItemTagsProvider {
 
         this.tag(ItemTags.CREEPER_DROP_MUSIC_DISCS)
                 .add(ModItems.TWO_TRUCKS_MUSIC_DISC.get());
+        this.tag(ItemTags.TRIMMABLE_ARMOR)
+                .add(ModItems.SCUBA_HELMET.get(),
+                        ModItems.SCUBA_CHESTPLATE.get(),
+                        ModItems.SCUBA_LEGGINS.get(),
+                        ModItems.SCUBA_BOOTS.get());
 
     }
 }
